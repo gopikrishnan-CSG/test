@@ -1,5 +1,5 @@
 import org.apache.commons.lang.RandomStringUtils
-def notificationpolicy()
+#def notificationpolicy()
 
 node {
     stage('Display Notifications Summary') {
@@ -9,4 +9,4 @@ node {
     }
 }
 
-return this
+#return this
